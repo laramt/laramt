@@ -17,12 +17,18 @@ Here are some ideas to get you started:
 ## Hi, I am Lara! 
 </br>
 
+- I’m currently learning ...
+- I’m currently working on ...
+
+
+ <!--
  <div>
   <a href="https://github.com/laramt">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laramt&layout=compact&langs_count=16&theme=dracula"/>
-
 </div>
- 
+-->   
+
+ <!--
  ## Skills
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="Erica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -31,9 +37,11 @@ Here are some ideas to get you started:
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
+-->  
+ 
 </br>
 
+<!--
 ## Contact 
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -42,7 +50,7 @@ Here are some ideas to get you started:
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 </br>
- 
+ -->
   ![Snake animation](https://github.com/laramt/laramt/blob/output/github-contribution-grid-snake.svg)
  
 </div>
