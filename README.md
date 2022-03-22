@@ -14,11 +14,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I am Lara! 
+<div><br>
+ <p align="center">
+  <img 
+    height="250"
+    src="https://64.media.tumblr.com/242182996cc0595e9b8eaf63e6ef488f/4b4ce9455b0cdaaf-ca/s540x810/2b669713213a660d460589f8b5a98ac7482ffde3.gifv"
+       >
+</p>
+ 
+
+<div>
+  <p align="center">
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </p>
+</div>
+ 
+ 
+</div></br>
+
+## hi, I am Lara! 
 </br>
 
 - I’m currently learning ...
 - I’m currently working on ...
+<br> 
+
+
+## skills
+</br>
+<div>
+</div> 
 
 
  <!--
@@ -41,16 +69,7 @@ Here are some ideas to get you started:
  
 </br>
 
-<!--
-## Contact 
-<div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </br>
-</br>
- -->
-  ![Snake animation](https://github.com/laramt/laramt/blob/output/github-contribution-grid-snake.svg)
+
+
  
-</div>
+
