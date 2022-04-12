@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <div><br>
  <p align="center">
   <img 
@@ -21,7 +22,7 @@ Here are some ideas to get you started:
     src="https://64.media.tumblr.com/242182996cc0595e9b8eaf63e6ef488f/4b4ce9455b0cdaaf-ca/s540x810/2b669713213a660d460589f8b5a98ac7482ffde3.gifv"
        >
 </p>
- 
+ -->
 
 <div>
   <p align="center">
