@@ -36,11 +36,13 @@ Here are some ideas to get you started:
  
 </div></br>
 
-## hi, I am Lara! 
+## Oi, eu sou a Lara! 
 </br>
 
-- I’m currently learning Java and Spring Boot
-- I’m currently working on ...
+- Sou estudante de Análise e Desenvolvimento de Sistemas
+- Atualmente estou estudando Java
+- Também estou aprendendo o básico do Framework Spring
+- SQL utilizando MySQL
 <br> 
 
 
