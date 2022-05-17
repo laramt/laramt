@@ -23,7 +23,18 @@ Here are some ideas to get you started:
        >
 </p>
  -->
-
+ 
+ <div><br>
+ <p align="center">
+  <img 
+    height="250"
+    src="https://cdn.donmai.us/original/a7/53/a753a1d7a63ceebebd970643b59f2cde.gif"
+   >
+</p>
+</div>
+ 
+ 
+ <!--
 <div>
   <p align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -32,7 +43,7 @@ Here are some ideas to get you started:
   <a href="lara.menckt@gmail.com" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </p>
 </div>
- 
+--> 
  
 </div></br>
 
@@ -46,6 +57,7 @@ Here are some ideas to get you started:
 <br> 
 
 
+ <!--
 ## skills
 </br>
 
@@ -55,7 +67,6 @@ Here are some ideas to get you started:
 </div> 
 
 
- <!--
  <div>
   <a href="https://github.com/laramt">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laramt&layout=compact&langs_count=16&theme=dracula"/>
