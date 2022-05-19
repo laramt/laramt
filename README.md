@@ -51,9 +51,8 @@ Here are some ideas to get you started:
 </br>
 
 - Sou estudante de Análise e Desenvolvimento de Sistemas
-- Atualmente estou estudando Java
-- Também estou aprendendo o básico do Framework Spring
-- SQL utilizando MySQL
+- Atualmente estou estudando Java e aprendendo o básico do Framework Spring
+- Estudando SQL (MySQL)
 <br> 
 
 
